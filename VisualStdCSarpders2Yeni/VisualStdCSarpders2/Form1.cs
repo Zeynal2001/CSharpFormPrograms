@@ -10,7 +10,7 @@ namespace VisualStdCSarpders2
 
         private void ButtonMesajGoruntule_Click(object sender, EventArgs e)
         {
-            textBoxMesaj.Text = "Hey Vun Hikya? Veziyatar Qsan Yeni?";
+            textBoxMesaj.Text = "Hey Necesen? Yaxsisan?";
         }
 
         private void ButtonMesajSil_Click(object sender, EventArgs e)
