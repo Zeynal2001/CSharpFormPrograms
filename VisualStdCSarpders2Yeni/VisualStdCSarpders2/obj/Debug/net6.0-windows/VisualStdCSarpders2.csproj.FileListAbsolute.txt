@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\bin\Debug\net6.0-windows\VisualStdCSarpders2.exe
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\bin\Debug\net6.0-windows\VisualStdCSarpders2.deps.json
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\bin\Debug\net6.0-windows\VisualStdCSarpders2.runtimeconfig.json
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\bin\Debug\net6.0-windows\VisualStdCSarpders2.dll
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\bin\Debug\net6.0-windows\VisualStdCSarpders2.pdb
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\VisualStdCSarpders2.Form1.resources
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\VisualStdCSarpders2.Properties.Resources.resources
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\VisualStdCSarpders2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\VisualStdCSarpders2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\VisualStdCSarpders2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\VisualStdCSarpders2.AssemblyInfo.cs
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\VisualStdCSarpders2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\VisualStdCSarpders2.dll
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\refint\VisualStdCSarpders2.dll
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\VisualStdCSarpders2.pdb
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\VisualStdCSarpders2.genruntimeconfig.cache
+C:\Users\user\source\repos\VisualStdCSarpders2\VisualStdCSarpders2\obj\Debug\net6.0-windows\ref\VisualStdCSarpders2.dll
